@@ -15,13 +15,13 @@ export const songs = [
   {
     title: "Rescue Me",
     artist: "OneRepublic",
-    image: require("./../../public/songs/RescueMe.png"),
+    image: require("./../../public/songs/rescueMe.png"),
     link: "https://open.spotify.com/track/37LNNQNbL1YLyutBG6aWRx",
   },
   {
     title: "About You",
     artist: "The 1975",
-    image: require("./../../public/songs/AboutYou.png"),
+    image: require("./../../public/songs/aboutYou.png"),
     link: "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
   },
   {
